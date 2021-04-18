@@ -68,11 +68,11 @@
 | 66 | [Game of Credit Cards](https://codeforces.com/problemset/problem/777/B) | 1300 |  |
 | 67 | [Mister B and Angle in Polygon](https://codeforces.com/problemset/problem/820/B) | 1300 |  |
 | 68 | [Tic-Tac-Toe](https://codeforces.com/problemset/problem/907/B) | 1400 |  |
-| 69 | [T-shirt buying](https://codeforces.com/problemset/problem/799/B) | 1400 |  |
-| 70 | [Not simply beatiful strings](https://codeforces.com/problemset/problem/955/B) | 1400 |  |
-| 71 | [Hongcow Solves A Puzzle](https://codeforces.com/problemset/problem/745/B) | 1400 |  |
-| 72 | [Sonya and Exhibition](https://codeforces.com/problemset/problem/1004/B) | 1400 |  |
-| 73 | [Alice and the List of Presents](https://codeforces.com/problemset/problem/1236/B) | 1400 |  |
+| 69 | [T-shirt buying](https://codeforces.com/problemset/problem/799/B) | 1400 | * |
+| 70 | [Not simply beatiful strings](https://codeforces.com/problemset/problem/955/B) | 1400 | * |
+| 71 | [Hongcow Solves A Puzzle](https://codeforces.com/problemset/problem/745/B) | 1400 |*  |
+| 72 | [Sonya and Exhibition](https://codeforces.com/problemset/problem/1004/B) | 1400 | * |
+| 73 | [Alice and the List of Presents](https://codeforces.com/problemset/problem/1236/B) | 1400 | * |
 | 74 | [Karen and Coffee](https://codeforces.com/problemset/problem/816/B) | 1400 |  |
 | 75 | [Double Matrix](https://codeforces.com/problemset/problem/1162/B) | 1400 |  |
 | 76 | [Silly Mistake](https://codeforces.com/problemset/problem/1253/B) | 1400 |  |
