@@ -16,7 +16,7 @@
 | 14 | [Servers](https://codeforces.com/problemset/problem/747/C) | 1400 |* |
 | 15 | [Constanze's Machine](https://codeforces.com/problemset/problem/1245/C) | 1400 | * |
 | 16 | [Candies!](https://codeforces.com/problemset/problem/1189/C) | 1400 | * |
-| 17 | [Queen](https://codeforces.com/problemset/problem/1143/C) | 1400 |  |
+| 17 | [Queen](https://codeforces.com/problemset/problem/1143/C) | 1400 | * |
 | 18 | [Three displays](https://codeforces.com/problemset/problem/987/C) | 1400 | * |
 | 19 | [Connect](https://codeforces.com/problemset/problem/1130/C) | 1400 | * |
 | 20 | [Ehab and a 2-operation task](https://codeforces.com/problemset/problem/1088/C) | 1400 | * |
