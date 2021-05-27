@@ -39,12 +39,12 @@
 | 37 | [Swap Letters](https://codeforces.com/problemset/problem/1215/C) | 1500 |  |
 | 38 | [Sweets Eating](https://codeforces.com/problemset/problem/1253/C) | 1500 |  |
 | 39 | [Sequence Transformation](https://codeforces.com/problemset/problem/1059/C) | 1500 |  |
-| 40 | [A Tale of Two Lands](https://codeforces.com/problemset/problem/1166/C) | 1600 |  |
-| 41 | [Primes and Multiplication](https://codeforces.com/problemset/problem/1228/C) | 1600 |  |
-| 42 | [Tram](https://codeforces.com/problemset/problem/746/C) | 1600 |  |
-| 43 | [Jury Marks](https://codeforces.com/problemset/problem/831/C) | 1600 |  |
-| 44 | [Okabe and Boxes](https://codeforces.com/problemset/problem/821/C) | 1600 |  |
-| 45 | [Serval and Parenthesis Sequence](https://codeforces.com/problemset/problem/1153/C) | 1600 |  |
+| 40 | [A Tale of Two Lands](https://codeforces.com/problemset/problem/1166/C) | 1600 |  *|
+| 41 | [Primes and Multiplication](https://codeforces.com/problemset/problem/1228/C) | 1600 | * |
+| 42 | [Tram](https://codeforces.com/problemset/problem/746/C) | 1600 | * |
+| 43 | [Jury Marks](https://codeforces.com/problemset/problem/831/C) | 1600 | * |
+| 44 | [Okabe and Boxes](https://codeforces.com/problemset/problem/821/C) | 1600 | * |
+| 45 | [Serval and Parenthesis Sequence](https://codeforces.com/problemset/problem/1153/C) | 1600 | * |
 | 46 | [Rectangles](https://codeforces.com/problemset/problem/1028/C) | 1600 |  |
 | 47 | [Plasticine zebra](https://codeforces.com/problemset/problem/1025/C) | 1600 |  |
 | 48 | [Cave Painting](https://codeforces.com/problemset/problem/922/C) | 1600 |  |
